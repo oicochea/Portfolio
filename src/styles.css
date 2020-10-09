@@ -1,0 +1,43 @@
+body {
+  text-shadow: #000 0px 0px 3px;
+  color: whitesmoke;
+  text-align: center;
+  background-color: #0c2d48;
+}
+.container {
+  margin-top: 10%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img {
+  width: 90%;
+}
+
+.item {
+  background-color: #b1d4e0;
+  border-radius: 5px;
+  border: 1px solid black;
+  width: 40%;
+}
+a {
+  text-shadow: #000 0px 0px 3px;
+  padding: 6px;
+  border-radius: 5px;
+  border: 1px solid black;
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+a:hover {
+  background-color: white;
+}
+h3 {
+  margin: 30px;
+}
